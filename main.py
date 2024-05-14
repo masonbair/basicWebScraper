@@ -44,8 +44,4 @@ def find_jobs(soup):
 
 
 if __name__ == '__main__':
-    while True:
-        loop_pages(currentPage)
-        time_wait = 600
-        print(f'Waiting for {time_wait} seconds...')
-        time.sleep(time_wait)
+    loop_pages(currentPage)

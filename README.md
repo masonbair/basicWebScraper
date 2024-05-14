@@ -1,0 +1,1 @@
+This is my first attempt at building a Python based webscraper with Beautiful Soup. This program successfully reads job data off of a job website and saves all this data in a text file. The scrapper then moves to the next page of job postings and saves these jobs as well. The scraper continues to traverse through the job postings until the end. 
